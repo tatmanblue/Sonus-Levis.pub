@@ -1,5 +1,8 @@
 # Sonus-Levis
-Sonus Levis is an android MP3 player app.   I started this project to replace a commerically available app that has become very unusable for me.  It is my hope that others would like a stright forward mp3 player.  If this is true and there is enough interest, I will create an iOS version as well.
+
+**No ads, no paywalls, just music**
+
+Sonus Levis is an android MP3 player app.   I started this project to replace a commerically available app that has become very unusable for me.  It is my hope that others would like a straight forward, easy to use mp3 player.  If this is true and there is enough interest, I will create an iOS version as well.
 
 ### Screens
 ![Play Screen](https://github.com/tatmanblue/Sonus-Levis.pub/blob/main/images/play_screen.jpg)   
