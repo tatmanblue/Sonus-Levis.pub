@@ -11,6 +11,11 @@ Sonus Levis is an android MP3 player app.   I started this project to replace a 
 ## Release
 The app is currently available in private testing.  If you are interested in testing this app, please let me know.  I need 12 peeople to test this app to bring it to market.
 
+## Work is continuing with this project
+1. Adding Play Lists
+2. Adding views by Artist, Genre and Play List
+
+
 ## Code
 [Code](https://github.com/tatmanblue/Sonus-Levis) is available.  Please contact me if you like access to the code.
 
