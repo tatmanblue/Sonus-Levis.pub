@@ -2,18 +2,25 @@
 
 **No ads, no paywalls, just music**
 
-Sonus Levis is an android MP3 player app.   I started this project to replace a commerically available app that has become very unusable for me.  It is my hope that others would like a straight forward, easy to use mp3 player.  If this is true and there is enough interest, I will create an iOS version as well.
+Sonus Levis is an android MP3 player app.   I started this project to replace a commercially available app that has become very unusable for me.  It is my hope that others would like a straight forward, easy to use mp3 player.  If this is true and there is enough interest, I will create an iOS version as well.
+
+### Features
+1. Plays MP3 files stored on your device.  
+2. Search by Artist and play by artist.
+3. Shake to play next song.
 
 ### Screens
 ![Play Screen](https://github.com/tatmanblue/Sonus-Levis.pub/blob/main/images/play_screen.jpg)   
 
+__Beta version 2025.10.11__
+![Search Screen](https://github.com/tatmanblue/Sonus-Levis.pub/blob/main/images/search.jpg)  
 
 ## Release
 The app is currently available in private testing.  If you are interested in testing this app, please let me know.  I need 12 peeople to test this app to bring it to market.
 
 ## Work is continuing with this project
-1. Adding Play Lists
-2. Adding views by Artist, Genre and Play List
+1. Adding Play Lists (**in progress**)  
+2. Adding views by Artist, Genre and Play List (**in progress**)  
 
 
 ## Code
@@ -21,4 +28,4 @@ The app is currently available in private testing.  If you are interested in tes
 
 ## Version
 Active testing and updates
-2024.03.31
+2025.10.11
