@@ -4,6 +4,9 @@
 
 Sonus Levis is an android MP3 player app.   I started this project to replace a commercially available app that has become very unusable for me.  It is my hope that others would like a straight forward, easy to use mp3 player.  If this is true and there is enough interest, I will create an iOS version as well.
 
+### This app is actively updated
+Please note that I am continueing to expand and update Sonus Levis app.  
+
 ### Features
 1. Plays MP3 files stored on your device.  
 2. Search by Artist and play by artist.
@@ -28,4 +31,4 @@ The app is currently available in private testing.  If you are interested in tes
 
 ## Version
 Active testing and updates
-2025.10.11
+2026.03.11
