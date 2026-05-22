@@ -22,8 +22,8 @@ __This app is actively being maintained__
 The app is currently available in private testing.  If you are interested in testing this app, please let me know.  I need 12 peeople to test this app to bring it to market.
 
 ## Work is continuing with this project
-1. Adding Play Lists (**in progress**)  
-2. Adding views by Artist, Genre and Play List (**in progress**)  
+1. Add in album Artist  
+2. Add genre searches
 
 
 ## Code
