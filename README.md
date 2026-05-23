@@ -7,11 +7,18 @@ Sonus Levis is an android MP3 player app.   I started this project to replace a 
 __This app is actively being maintained__
 
 ### Features
-1. Plays MP3 files stored on your device.  
-2. Search by Artist, album and song title.
-3. Shake to play next song.
-4. Playlists.
-5. Favorites.
+1. No internet required
+2. Plays MP3 files stored on your device  
+2. Search by Artist, album and song title
+3. Shake to play next song
+4. Playlists
+5. Favorites
+6. Bluetooth devices
+
+### Work is continuing with this project
+1. Android Auto  
+2. Add in album Artist  
+
 
 ### Screens
 ![Play Screen](https://github.com/tatmanblue/Sonus-Levis.pub/blob/main/images/play_screen.jpg)   
@@ -20,10 +27,6 @@ __This app is actively being maintained__
 
 ## Release
 The app is currently available in private testing.  If you are interested in testing this app, please let me know.  I need 12 peeople to test this app to bring it to market.
-
-## Work is continuing with this project
-1. Add in album Artist  
-2. Add genre searches
 
 
 ## Code
