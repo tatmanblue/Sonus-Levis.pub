@@ -21,9 +21,11 @@ __This app is actively being maintained__
 
 
 ### Screens
-![Play Screen](https://github.com/tatmanblue/Sonus-Levis.pub/blob/main/images/play_screen.jpg)   
+![Play Screen](https://github.com/tatmanblue/Sonus-Levis.pub/blob/main/images/play_screen.png)   
 
 ![Search Screen](https://github.com/tatmanblue/Sonus-Levis.pub/blob/main/images/search.jpg)  
+
+![Settings Screen]((https://github.com/tatmanblue/Sonus-Levis.pub/blob/main/images/settings.png)  )  
 
 ## Release
 The app is currently available in private testing.  If you are interested in testing this app, please let me know.  I need 12 peeople to test this app to bring it to market.
